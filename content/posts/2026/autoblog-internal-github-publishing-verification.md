@@ -2,7 +2,7 @@
 title: "AutoBlog Internal GitHub Publishing Verification"
 slug: "autoblog-internal-github-publishing-verification"
 description: "A practical guide to AutoBlog internal GitHub publishing verification for automation blogs."
-date: "2026-07-26T16:01:41.515Z"
+date: "2026-07-26T16:02:41.616Z"
 draft: false
 tags: ["automation", "automation", "ai-content"]
 ---
